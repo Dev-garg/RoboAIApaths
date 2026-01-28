@@ -1,0 +1,42 @@
+# llms.txt for RoboAIPaths
+# Website: https://roboaiapaths.com
+# Domain: AI, Robotics & STEM Education
+
+User-agent: *
+Allow: /
+
+# Primary pages for AI understanding
+Important:
+https://roboaiapaths.com/
+https://roboaiapaths.com/about.html
+https://roboaiapaths.com/services.html
+https://roboaiapaths.com/blog.html
+https://roboaiapaths.com/contact.html
+https://roboaiapaths.com/gallery.html
+https://roboaiapaths.com/hello-world.html
+https://roboaiapaths.com/join-as-a-trainer.html
+https://roboaiapaths.com/kits.html
+https://roboaiapaths.com/partner-with-school.html
+https://roboaiapaths.com/program.html
+
+# Website summary
+Summary:
+RoboAIPaths is an AI, robotics, and STEM education platform based in Faridabad, Haryana, India.
+The platform provides hands-on robotics training, artificial intelligence education, and future-ready
+STEM programs for students, schools, and beginners.
+
+# Target audience
+Audience:
+School students, college students, beginners, educators, and schools interested in AI and robotics education.
+
+# Location relevance
+Location:
+Faridabad, Haryana, India
+
+# Topics covered
+Topics:
+Artificial Intelligence, Robotics, STEM Education, Coding for Students, Future Skills, Technology Training
+
+# Preferred citation
+Name: RoboAIPaths
+URL: https://roboaiapaths.com
